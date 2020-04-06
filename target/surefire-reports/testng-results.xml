@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-18T02:42:36Z" name="Suite" finished-at="2020-02-18T02:42:36Z" duration-ms="19">
+    <groups>
+    </groups>
+    <test started-at="2020-02-18T02:42:36Z" name="Test" finished-at="2020-02-18T02:42:36Z" duration-ms="19">
+      <class name="cloaktesting.APITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:cloaktesting.APITest@bcec361]" started-at="2020-02-17T21:42:36Z" name="deleteTwitter" finished-at="2020-02-17T21:42:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="posJira()[pri:0, instance:cloaktesting.APITest@bcec361]" started-at="2020-02-17T21:42:36Z" name="posJira" finished-at="2020-02-17T21:42:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posJira -->
+      </class> <!-- cloaktesting.APITest -->
+      <class name="cloaktesting.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:cloaktesting.SeleniumTest@79079097]" started-at="2020-02-17T21:42:36Z" name="browserAutomation" finished-at="2020-02-17T21:42:36Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:cloaktesting.SeleniumTest@79079097]" started-at="2020-02-17T21:42:36Z" name="elementsUI" finished-at="2020-02-17T21:42:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- cloaktesting.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
